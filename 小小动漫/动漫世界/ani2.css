@@ -1,0 +1,30 @@
+.text-fff{
+	color: #fff !important;
+}
+
+.nav-bg{
+	background: #ffcfd4;
+}
+
+/* 轮播图 */
+.carousel-inner .item img{
+	height: 60rem ;
+	width: 100%;
+	
+}
+/* 内容部分 */
+.mt-2{
+	margin-top: 2rem;
+}
+.nav-pills a{
+	cursor: pointer;
+}
+
+.list-group-item img{
+	width: 100%;
+}
+/* 评价 */
+.media-left img{
+	width: 8rem;
+	height: 7rem;
+}
