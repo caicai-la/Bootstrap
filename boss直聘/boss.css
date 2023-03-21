@@ -1,0 +1,65 @@
+/* 背景图片 */
+.bg-img{
+	background-image: url('./img/bg.jpg');
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top:0;
+	overflow: auto;
+	background-size: cover;
+	position: absolute;
+}
+.pt-2{
+	padding-top: 20px;
+}
+/* logo背景颜色 */
+.logo{
+	background-color: #fff;
+}
+.pt-2{
+	padding-bottom: 20px;
+}
+.pt-2{
+	padding: 20px;
+}
+/* 表单与上边距离 */
+.mt-2{
+	margin-top: 80px;
+}
+
+.mb-2{
+	margin-bottom: 80px;
+}
+.main-content{
+	width: 500px;
+	padding: 30px;
+	background-color: #fff;
+	border-radius: 5px;
+}
+
+/* 图标左移 */
+.left-0{
+	left: 0;
+}
+
+/* 表单 */
+.pr-0{
+	padding-right: 0;
+}
+.pl-3{
+	padding-left: 30px;
+}
+.z-1{
+	z-index: 1 !important;
+}
+
+/* 输入验证码框 */
+.pl-0{
+	padding-left: 0;
+}
+/* 按钮 */
+.p-0{
+	padding: 0;
+}
+
+
