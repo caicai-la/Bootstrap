@@ -1,0 +1,101 @@
+/* 背景图片 */
+.bg-img {
+	background-image: url('./img/1.jpg');
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	overflow: auto;
+	background-size: cover;
+	position: absolute;
+}
+
+/* logo上边距 */
+.pt-2 {
+	padding-top: 20px;
+}
+
+/* logo居中 */
+.pt-2 {
+	text-align: center;
+}
+
+/* 表单与上边距离 */
+.mt-2 {
+	margin-top: 20px;
+}
+
+/* 表单长，宽 */
+.main-content {
+	width: 360px;
+	height: 430px;
+	padding: 30px;
+	/* 表单直角 */
+	border-radius: 5px;
+
+	/* 毛玻璃效果 */
+	background-color: rgba(114, 146, 193, 0.603);
+	backdrop-filter: blur(12px);
+}
+
+/* 图标左移 */
+.left-0 {
+	left: 0;
+	/* 图标颜色 */
+	color: rgb(84, 84, 84);
+}
+
+/* 输入框 */
+.pr-0 {
+	padding-right: 0;
+	/* 背景颜色 */
+	background-color: rgba(26, 26, 26, 0.881);
+}
+
+/* 输入框与上边距离 */
+.at-2 {
+	padding-bottom: 20px;
+}
+
+.pl-3 {
+	/* 输入框图标左边距 */
+	padding-left: 40px;
+	/* 去掉input边框 */
+	border-style: none;
+}
+
+.z-1 {
+	z-index: 1 !important;
+}
+
+/* 服务条款 */
+.p1 {
+	text-align: center;
+	padding-top: 15px;
+	color: rgb(173, 173, 173);
+}
+
+/* h4标签 登录 */
+.hg {
+	color: rgba(226, 224, 224, 0.351);
+	padding-right: 6px;
+	border-right: 2px solid rgba(226, 224, 224, 0.351);
+}
+
+/* h4标签 注册 */
+.hj {
+	color: rgb(224, 222, 222);
+	padding-left: 6px;
+}
+
+.zc {
+	/* 注册按钮直角边框 */
+	border-radius: 0%;
+	/* 去掉按钮边框 */
+	border-style: none;
+}
+
+/* 注册按钮上边距 */
+.zx {
+	padding-top: 10px;
+}
